@@ -29,7 +29,6 @@ The bot periodically checks Motorola product pages and analyzes stock-status ind
 
 ## Future Improvements
 
-* Cloud deployment for 24×7 monitoring
 * Support for additional e-commerce websites
 * Product selection through Telegram commands
 * Stock history logging
